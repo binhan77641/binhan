@@ -1,14 +1,15 @@
 [
-  {
-    "name": "Timothy",
-    "age": 35
-  },
-  { 
-    "name": "Georgette",
-    "age": 29
-  }, 
-  { 
-    "name": "Craig",
-    "age": 54
-  }
+    {
+        "name": "Nguyễn Văn Cường",
+        "relation": "cha",
+        "identityCard": "123789456",
+        "birthCertificate": "123456789",
+        "dd": "19",
+        "mm": "/02",
+        "yy":"/1995",
+        "age": "21",
+        "residentialAddress": "nguyen trai, quan 5, hcm",
+        "postcode": "77561",
+        "country": "viet nam"
+    }
 ]
