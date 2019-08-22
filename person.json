@@ -11,8 +11,11 @@
         "yy":"/1995",
         "age": "21",
         "residentialAddress": "nguyen trai, quan 5, hcm",
-        "postcode": "77561",
-        "country": "viet nam"
+        "postcodeRes": "2222222",
+        "countryRes": "viet nam",
+        "permanentAddress": "etown, tan binh, hcm",
+        "postcodePer": "33333333",
+        "countryPer": "viet nam"
     }
     
 ]
