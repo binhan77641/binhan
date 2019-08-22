@@ -2,8 +2,10 @@
     {
         "name": "Nguyễn Văn Cường",
         "relation": "cha",
-        "identityCard": "123789456",
-        "birthCertificate": "123456789",
+        "identityCardNew": "123789456",
+        "identityCardOld": "777777777",
+        "birthCertificateNew": "123456789",
+        "birthCertificateOld": "888888888",
         "dd": "19",
         "mm": "/02",
         "yy":"/1995",
@@ -12,4 +14,5 @@
         "postcode": "77561",
         "country": "viet nam"
     }
+    
 ]
